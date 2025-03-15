@@ -1,0 +1,7 @@
+gradio
+cv2
+numpy
+os
+ultralytics
+deep-sort-realtime
+json
